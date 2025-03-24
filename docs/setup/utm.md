@@ -9,4 +9,4 @@ Anschließend muss das Image [hier](https://1drv.ms/u/c/c893962bc99f99b7/EcX8wNI
 
 ## Importieren der VM in UTM
 Öffne UTM und erstelle eine neue virtuelle Maschine.
-![](/assets/utm-create-new-vm.png)
+![Neue VM erstellen](/assets/utm-create-new-vm.png)
