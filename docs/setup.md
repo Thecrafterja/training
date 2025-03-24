@@ -14,4 +14,5 @@ Fahre erst mit dem nächsten Punkt fort, wenn Du die VM erfolgreich gestartet ha
 **Die VM hat den Nutzernamen "scala" und das Passwort "12345678"**
 
 ## Projekt öffnen
-Bla bla
+Das Projekt kann in der VM über ein Shortcut auf dem Desktop geöffnet werden. Dabei wird automatisch die neuste Version der Vorlage von Github heruntergeladen.
+![Projekt öffnen]({{site.baseurl}}/assets/vm-open-project.png)
