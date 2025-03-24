@@ -11,7 +11,7 @@ Falls Du ein Windows-Gerät oder ein MacOS-Gerät mit einem Intel-Prozessor verw
 
 Fahre erst mit dem nächsten Punkt fort, wenn Du die VM erfolgreich gestartet hast.
 
-**Die VM hat den Nutzernamen scala und das Passwort 12345678**
+**Die VM hat den Nutzernamen "scala" und das Passwort "12345678"**
 
 ## Projekt öffnen
 Bla bla
