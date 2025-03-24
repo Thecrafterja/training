@@ -15,10 +15,9 @@ Klicke im nächsten Fenster unter "Existierende" auf Öffnen, und wähle dann im
 ![Existierende VM öffnen]({{site.baseurl}}/assets/utm-open-existing-vm.png)
 Anschließend sollte in der linken Leiste eine neue VM namens "Scala Training" erscheinen.
 
-{: .warning }
-Die VM-Konfiguration sollte nicht verändert werden, da es sonst zu unvorhergesehenen Fehlern kommen kann.
+**Die VM-Konfiguration sollte nicht verändert werden, da es sonst zu unvorhergesehenen Fehlern kommen kann.**
 
 Nun kann man die VM über den Startknopf starten.
 ![VM starten]({{site.baseurl}}/assets/utm-start-vm.png)
 
-Nun kannst Du mit dem [generellen Setup]({{site.baseurl}}{{% link ../setup.md %}}) fortfahren.
+Nun kannst Du mit dem [generellen Setup]({{site.baseurl}}{% link ../setup.md %}) fortfahren.
