@@ -20,4 +20,4 @@ Anschließend sollte in der linken Leiste eine neue VM namens "Scala Training" e
 Nun kann man die VM über den Startknopf starten.
 ![VM starten]({{site.baseurl}}/assets/utm-start-vm.png)
 
-Nun kannst Du mit dem [generellen Setup]({{site.baseurl}}{% link ../setup.md %}) fortfahren.
+Nun kannst Du mit dem [generellen Setup]({{site.baseurl}}{% link /docs/setup.md %}) fortfahren.
