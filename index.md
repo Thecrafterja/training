@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Scala Training
 layout: home
 ---
 
