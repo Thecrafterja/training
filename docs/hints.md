@@ -7,33 +7,7 @@ nav_order: 5
 Auf dieser Seite finden sich grundlegende Informationen zur Ordnerstruktur eines Scala-Projekts sowie zur Bedienung von `sbt`. Auf weiteren Unterseiten finden sich Informationen zum Coding in Scala.
 
 ## Ordnerstruktur
-scala-training/
-
-├── project/
-
-│   └── ...
-
-├── src/
-
-│   ├── main/
-
-│   │   └── scala/
-
-│   │       ├── Main.scala
-
-│   │       └── ...
-
-│   └── test/
-
-│       └── scala/
-
-│           └── ...
-
-├── .gitignore
-
-├── README.md
-
-└── build.sbt
+![Projektstruktur in Scala]({{site.baseurl}}/assets/project-structure.png)
 
 Die `build.sbt` definiert grundlegende Informationen für `sbt`, zum Beispiel die Abhängigkeiten eines Projektes.
 Die Programmierung findet in `src/` statt. Unter `main/scala/` befindet sich der Code, der ausgeführt werden soll. Tests werden im Ordner `test/scala/` geschrieben.
