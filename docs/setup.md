@@ -1,6 +1,7 @@
 ---
 title: VM Setup
 layout: default
+nav_order: 2
 ---
 
 Für die Übung werden zwei VM-Images zur Verfügung gestellt.
