@@ -8,18 +8,31 @@ Auf dieser Seite finden sich grundlegende Informationen zur Ordnerstruktur eines
 
 ## Ordnerstruktur
 scala-training/
+
 ├── project/
+
 │   └── ...
+
 ├── src/
+
 │   ├── main/
+
 │   │   └── scala/
+
 │   │       ├── Main.scala
+
 │   │       └── ...
+
 │   └── test/
+
 │       └── scala/
+
 │           └── ...
+
 ├── .gitignore
+
 ├── README.md
+
 └── build.sbt
 
 Die `build.sbt` definiert grundlegende Informationen für `sbt`, zum Beispiel die Abhängigkeiten eines Projektes.
