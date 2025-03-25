@@ -16,4 +16,5 @@ Die Programmierung findet in `src/` statt. Unter `main/scala/` befindet sich der
 Das Scala Build Tool hat unter anderem die Aufgaben, ein Scala-Programm sowie dessen Tests auszuführen.
 
 `sbt run`: Führt das Scala-Programm aus
+
 `sbt test`: Führt alle Tests des Projektes aus
