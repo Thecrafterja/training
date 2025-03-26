@@ -13,5 +13,3 @@ In Scala können Exceptions wie folgt geworfen werden:
 throw new Exception
 ```
 Dabei kann `Exception` durch jede beliebige Exception-Klasse ersetzt werden.
-
-[Scala-Dokumentation](https://docs.scala-lang.org/scala3/book/control-structures.html#trycatchfinally)
