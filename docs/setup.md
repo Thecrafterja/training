@@ -4,11 +4,12 @@ layout: default
 nav_order: 2
 ---
 
-Für die Übung werden zwei VM-Images zur Verfügung gestellt.
+Für die Übung wird ein VM-Image für MacOS und eine alternative Lösung für Windows zur Verfügung gestellt.
 
 Falls Du ein Gerät mit MacOS und einem M-Chip verwendest, folge bitte der [Anleitung für UTM]({{site.baseurl}}/docs/setup/utm.html).
 
-Falls Du ein Windows-Gerät oder ein MacOS-Gerät mit einem Intel-Prozessor verwendest, folge bitte der [Anleitung für VirtualBox]({{site.baseurl}}/docs/setup/virtualbox.html).
+Aufgrund aktueller technischer Limitierungen von VirtualBox bzw. Anforderungen von Scala ist es leider nicht möglich, ein VM-Image für VirtualBox zur Verfügung zu stellen. Daher werden wir für diese Übung auf GitHub-Codespaces setzen.
+Falls Du ein Windows-Gerät oder ein MacOS-Gerät mit einem Intel-Prozessor verwendest, folge bitte der [Anleitung für GitHub-Codespaces]({{site.baseurl}}/docs/setup/codespaces.html).
 
 Fahre erst mit dem nächsten Punkt fort, wenn Du die VM erfolgreich gestartet hast.
 
