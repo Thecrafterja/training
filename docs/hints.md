@@ -23,7 +23,9 @@ Das Scala Build Tool hat unter anderem die Aufgaben, ein Scala-Programm sowie de
 `sbt test`: Führt alle Tests des Projektes aus
 
 ### GitHub Codespaces
-Hierzu nutzen wir die VSCode Command Palette. Diese kannst du über `Strg + Shift + P` bzw. `Cmd + Shift + P` öffnen.
+Hierzu nutzen wir die VSCode Command Palette. Diese kannst du über `Strg + Shift + P` bzw. `Cmd + Shift + P` öffnen (Ausnahme für Firefox unten auf der Seite).
 
 Zum Ausführen der Main-Klasse öffne bitte die entsprechende Datei und führe in der Command Palette den Befehl "Metals: run main class or tests in the current file" aus.
-Mit diesem Befehl lassen sich auch die Tests ausführen, indem die Testklasse geöffnet wird.
+Mit diesem Befehl lassen sich auch die Tests ausführen, indem dieser bei geöffneter Testklasse ausgeführt wird.
+
+Falls du Firefox nutzt, funktioniert die Tastenkombination unter Windows nicht. Um einen Befehl einzugeben, klicke bitte oben auf die Suchleiste von VSCode, und wähle dann "Befehle anzeigen und ausführen". Nun kannst du den Befehl eingeben.
