@@ -12,3 +12,5 @@ Auch in dieser Aufgabe musst Du eine Methode in der Klasse Calculator implementi
 Dabei handelt es sich um die Methode `derive(polynom)`, welche ein Polynom ableiten soll. Ein Polynom wird dabei als Liste von Objekten der Klasse PolynomPart dargestellt. Diese Objekte haben die Attribute `factor` für den Vorfaktor der Funktionsvariablen, und `exponent` für den Exponenten der Funktionsvariablen.
 
 Die Methode soll somit auch eine Liste mit Objekten der Klasse PolynomPart zurückgeben.
+
+Auch bei dieser Aufgabe kann über das Ausführen der Tests wieder die korrekte Funktionsweise der Methode überprüft werden.
